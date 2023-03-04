@@ -8,12 +8,12 @@
 
 
 ## Networks I've worked on
-EVM compatible chains including:
+* EVM compatible chains including:
 - Ethereum
 - Polygon
 - Abitrum
 - Optimism
-Others include:
+* Others include:
 - Polkadot
 - Flow blockchain
 - Algorand
