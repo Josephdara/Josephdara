@@ -2,21 +2,13 @@
 
 ## 👋 Hi, My name is Joseph Oluwadara, mostly known as Josephdara 
 
-- I am a Blockchain Security Engineer, currently work as the Blockchain developer at Astra Metaverse
-- I also do smart contract audits at [Code4rena](https://code4rena.com/), [Sherlock](https://www.sherlock.xyz/) and [ImmuneFi](https://immunefi.com/)
+- I am a Blockchain Security Engineer, currently doing smart contract security reviews at [Code4rena](https://code4rena.com/@josephdara), [Sherlock](https://www.sherlock.xyz/) and [ImmuneFi](https://immunefi.com/)
 - I have interests and also actively researching the EVM, writing secure and optimized contracts.
+  
+  
+## Code4rena
+Most of my public audits are done at Code4rena, here is the link to my portfolio there -----> https://code4rena.com/@josephdara
 
-
-## Networks I've worked on
-* EVM compatible chains including:
-- Ethereum
-- Polygon
-- Abitrum
-- Optimism
-* Others include:
-- Polkadot
-- Flow blockchain
-- Algorand
 
 ## 🖥️ My Stack Include
 
