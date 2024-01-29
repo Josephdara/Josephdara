@@ -13,7 +13,7 @@ Most of my public audits are done at Code4rena, here is the link to my portfolio
 ## 🖥️ My Stack Include
 
 - Solidity
-- Rust (new)
+- Rust 
 - Cadence
 - Javascript
 - Foundry 
